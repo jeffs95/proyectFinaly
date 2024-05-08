@@ -1,0 +1,3 @@
+C:/Users/KINGO/Documents/Universisdad/Programacion 1/Sistema_Empleados/cmake-build-debug/CMakeFiles/Sistema_Empleados.dir
+C:/Users/KINGO/Documents/Universisdad/Programacion 1/Sistema_Empleados/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/KINGO/Documents/Universisdad/Programacion 1/Sistema_Empleados/cmake-build-debug/CMakeFiles/rebuild_cache.dir
